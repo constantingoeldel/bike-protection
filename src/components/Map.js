@@ -12,7 +12,7 @@ export default function BikeMap() {
     mapRef.current.leafletElement.locate({
       setView: true,
     })
-    readDocument('/devices/MCbhuquFTFw0S65wbhAh')
+    // readDocument('/devices/MCbhuquFTFw0S65wbhAh')
   }, [])
 
   return (

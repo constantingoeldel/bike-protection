@@ -4,7 +4,6 @@ import App from './App'
 import * as serviceWorker from './serviceWorker'
 import GlobalStyles from './GlobalStyles'
 require('dotenv').config({ path: `${__dirname}/.env` })
-console.log(process.env)
 
 ReactDOM.render(
   <React.StrictMode>

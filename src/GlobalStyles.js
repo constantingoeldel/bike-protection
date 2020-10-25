@@ -23,7 +23,7 @@ body {
 .leaflet-container {
   margin: 5%;
   width: 90%;
-  height: 65vh;
+  height: 80vh;
   border-radius: 30px;
 }
 `
